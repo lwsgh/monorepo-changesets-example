@@ -1,5 +1,14 @@
 # @mono/pkg-2
 
+## 1.1.3
+
+### Patch Changes
+
+- [`9296d13`](https://github.com/lwsgh/monorepo-changesets-example/commit/9296d133ca3c56874d624682b3c379293635ccad) - add workflow action
+
+- Updated dependencies [[`9296d13`](https://github.com/lwsgh/monorepo-changesets-example/commit/9296d133ca3c56874d624682b3c379293635ccad)]:
+  - @mono/pkg-1@3.0.0
+
 ## 1.1.2
 
 ### Patch Changes
