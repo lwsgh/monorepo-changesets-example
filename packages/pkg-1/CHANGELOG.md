@@ -1,5 +1,11 @@
 # @mono/pkg-1
 
+## 2.0.0
+
+### Major Changes
+
+- 添加 README.md
+
 ## 1.1.1
 
 ### Patch Changes

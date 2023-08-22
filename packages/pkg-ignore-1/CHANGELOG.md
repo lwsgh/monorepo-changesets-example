@@ -1,5 +1,12 @@
 # @mono/pkg-ignore-1
 
+## 1.1.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @mono/pkg-1@2.0.0
+
 ## 1.1.1
 
 ### Patch Changes
