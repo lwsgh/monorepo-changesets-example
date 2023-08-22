@@ -14,7 +14,33 @@ importers:
 
   packages/pkg-1: {}
 
-  packages/pkg-2: {}
+  packages/pkg-2:
+    dependencies:
+      '@mono/pkg-1':
+        specifier: workspace:^
+        version: link:../pkg-1
+
+  packages/pkg-fixed-1:
+    dependencies:
+      '@mono/pkg-1':
+        specifier: workspace:^
+        version: link:../pkg-1
+
+  packages/pkg-fixed-2: {}
+
+  packages/pkg-ignore-1:
+    dependencies:
+      '@mono/pkg-1':
+        specifier: workspace:^
+        version: link:../pkg-1
+
+  packages/pkg-linked-1:
+    dependencies:
+      '@mono/pkg-1':
+        specifier: workspace:^
+        version: link:../pkg-1
+
+  packages/pkg-linked-2: {}
 
 packages:
 
