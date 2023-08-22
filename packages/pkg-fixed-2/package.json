@@ -1,6 +1,6 @@
 {
   "name": "@mono/pkg-fixed-2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "pkg-fixed-1, pkg-fixed-2 两个包会捆绑升级版本号",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,13 @@
 # @mono/pkg-linked-1
 
+## 0.2.1
+
+### Patch Changes
+
+- 变更 changelog 生成工具
+- Updated dependencies
+  - @mono/pkg-1@1.1.1
+
 ## 0.2.0
 
 ### Minor Changes
