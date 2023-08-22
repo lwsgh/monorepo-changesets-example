@@ -12,6 +12,7 @@
     "changeset:init": "changeset init",
     "changeset:release": "changeset version",
     "changeset:publish": "changeset publish",
+    "ci:version": "changeset version",
     "ci:publish": "pnpm publish -r"
   },
   "keywords": [],
