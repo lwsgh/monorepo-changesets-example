@@ -36,4 +36,4 @@ jobs:
           title: "chroe: update versions"
           publish: pnpm ci:publish
         env:
-          GITHUB_TOKEN: $${{ GH_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
