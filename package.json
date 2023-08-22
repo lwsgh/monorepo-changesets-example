@@ -4,6 +4,9 @@
   "description": "",
   "private": true,
   "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "changeset": "changeset",
     "changeset:init": "changeset init",
